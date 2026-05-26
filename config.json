@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervalculate",
+        "uuid": 8354164,
+        "checksum": "u21jp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
